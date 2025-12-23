@@ -6,6 +6,7 @@ Author-email: kartikshingate90@gmail.com
 Requires-Dist: pandas
 Requires-Dist: numpy
 Requires-Dist: seaborn
+Requires-Dist: setuptools
 Dynamic: author
 Dynamic: author-email
 Dynamic: requires-dist
