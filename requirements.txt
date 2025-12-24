@@ -2,6 +2,8 @@ pandas
 numpy
 seaborn
 setuptools
-
-
+scikit-learn
+# catboost
+# xgboost
+drill
 -e .
